@@ -11,12 +11,12 @@
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayv1dx/)
 [![sc](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/dayv1dx)
 [![mal](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/dayv1dx)
+&nbsp;
 
 # 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayv1dx&show_icons=true&theme=vision-friendly-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayv1dx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-
-&nbsp;
+![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/3-stats.svg) ![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/0-profile-details.svg)
 
 
 
