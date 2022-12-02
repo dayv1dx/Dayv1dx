@@ -13,6 +13,10 @@
 [![mal](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/dayv1dx)
 &nbsp;
 
+# 📱  Apps Android Portifolio
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Docshare&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Organizze-app&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+
 # 📊 Stats
 
 ![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/3-stats.svg) ![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/2-most-commit-language.svg)
