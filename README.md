@@ -15,7 +15,7 @@
 
 # 📱  Apps Android Portifolio
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Docshare&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Organizze-app&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Docshare&theme=rose_pine)](https://github.com/Dayv1dx/DocShare) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Organizze-app&theme=rose_pine)](https://github.com/Dayv1dx/Organizze-app)
 
 # 📊 Stats
 
