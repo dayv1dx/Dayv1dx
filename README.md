@@ -15,7 +15,7 @@
 
 # 📱  Projetos Android 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Android-Apps-Portifolio&theme=rose_pine)]([https://github.com/Dayv1dx/DocShare](https://github.com/Dayv1dx/Android-Apps-Portifolio))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Android-Apps-Portifolio&theme=rose_pine)](https://github.com/Dayv1dx/Android-Apps-Portifolio)
 
 # 📊 Stats
 
