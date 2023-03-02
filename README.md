@@ -1,16 +1,16 @@
 # **Hey!** 👋
 
-- 🎓 | i'm studying Electronic Engineering at [**UPE**](https://upe.poli.br/)
-- 💻 | i'm currently learning Mobile Development in **Android Studio** 
-- 👀 | i’m interested in knowing more about **VST** (*Virtual Studio Technology*). i'm a music producer too. 
+Sou aluno do curso de Engenharia Eletrônica na  [**Escola Politécnica de Pernambuco**](https://upe.poli.br/), atualmente estou no 9º período e durante minha jornada acadêmica, mais precisamente em 2022, participei de um projeto onde tive contato com a parte da programação voltada a criação de aplicativos móveis. Desde então, paralelo aos estudos e projetos de hardware da faculdade, tenho me dedicado ao desenvolvimento de aplicativos Android e busco por uma vaga de estágio nessa área. 
 
-**Connect with me:**
+&nbsp;
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+**Social Links:**
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayvid-cunha/)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayv1dx/)
 [![sc](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/dayv1dx)
 [![mal](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/dayv1dx)
+
 &nbsp;
 
 # 📱  Projetos Android 
