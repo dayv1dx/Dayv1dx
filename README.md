@@ -1,7 +1,6 @@
 # **Hey!** 👋
 
 Sou aluno do curso de Engenharia Eletrônica na  [**Escola Politécnica de Pernambuco**](https://upe.poli.br/), atualmente estou no 9º período e durante minha jornada acadêmica, mais precisamente em 2022, participei de um projeto onde tive contato com a parte da programação voltada a criação de aplicativos móveis. Desde então, paralelo aos estudos e projetos de hardware da faculdade, tenho me dedicado ao desenvolvimento de aplicativos Android e busco por uma vaga de estágio nessa área. 
-
 &nbsp;
 
 **Social Links:**
@@ -15,7 +14,7 @@ Sou aluno do curso de Engenharia Eletrônica na  [**Escola Politécnica de Perna
 
 # 📱  Projetos Android 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=Android-Apps-Portifolio&theme=rose_pine)](https://github.com/Dayv1dx/Android-Apps-Portifolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=DocShare&theme=rose_pine)](https://github.com/Dayv1dx/DocShare)
 
 # 📊 Stats
 
