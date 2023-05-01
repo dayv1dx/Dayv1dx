@@ -1,6 +1,6 @@
 # **Hey!** 👋
 
-Sou aluno do curso de Engenharia Eletrônica na  [**Escola Politécnica de Pernambuco**](https://upe.poli.br/), atualmente estou no 9º período e durante minha jornada acadêmica, mais precisamente em 2022, participei de um projeto onde tive contato com a parte da programação voltada a criação de aplicativos móveis. Desde então, paralelo aos estudos e projetos de hardware da faculdade, tenho me dedicado ao desenvolvimento de aplicativos Android e busco por uma vaga de estágio nessa área. 
+Sou aluno do curso de Engenharia Eletrônica na  [**Escola Politécnica de Pernambuco**](https://upe.poli.br/) e durante minha jornada acadêmica, mais precisamente em 2022, participei de um projeto onde tive contato com a parte da programação voltada a criação de aplicativos móveis. Desde então, paralelo aos estudos e projetos de hardware da faculdade, tenho me dedicado ao desenvolvimento de aplicativos Android e busco por uma vaga de estágio nessa área. 
 &nbsp;
 
 **Social Links:**
@@ -16,11 +16,14 @@ Sou aluno do curso de Engenharia Eletrônica na  [**Escola Politécnica de Perna
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=DocShare&theme=rose_pine)](https://github.com/Dayv1dx/DocShare)&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=MinhasTarefas&theme=rose_pine)](https://github.com/Dayv1dx/MinhasTarefas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dayv1dx&repo=CalculadoraIMC&theme=rose_pine)](https://github.com/Dayv1dx/CalculadoraIMC)
+
 
 # 📊 Stats
 
-![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/3-stats.svg) ![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/3-stats.svg) ![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/Dayv1dx/Dayv1dx/main/profile-summary-card-output/2077/0-profile-details.svg)
+
 
 
 
